@@ -22,5 +22,6 @@ display: none;
 @media (min-width: 48rem){
   .modal{
     left: cal(50% - 20rem);
+    width: 40rem;
   }
 }
